@@ -11,13 +11,13 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you success, happiness, and everything your heart desires(especially me). ✨ ", 
-        emoji: "💕",
+        text: "I hope that we clebrate many more anniversary just like these (because of me also cause i texted first)🙂‍↔️. ", 
+        emoji: "🙂‍↔️",
         gif: "gif1.gif"
     },
     { 
-        text: "Stay the amazing girl you are—always keep doing the kalesh with me  Have the happiest year ahead ofc another one with meeeeeeeeeee! 🥳 ", 
-        emoji: "🌟",
+        text: "happyyy anniversary it's exactly 2:01 when i texted you first so i'm wishing you exacty at that time with Hie💕 ", 
+        emoji: "💞 ",
         gif: "gif2.gif"
     }
 ];
